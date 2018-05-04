@@ -1,4 +1,4 @@
-# backup.bat
+### Backup-Windows-7-ZIp
 Script backup para Windows utilizando 7-zip
 
 Dependências: 7-Zip
